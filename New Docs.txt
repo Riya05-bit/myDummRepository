@@ -1,1 +1,2 @@
-This is a new Document.
+This is a new Document, which is a txt file.
+I am added new Line here for just comprasion
