@@ -1,1 +1,1 @@
-This is a new Document.
+This is a new Document, which is a txt file.
